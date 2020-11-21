@@ -10,8 +10,7 @@ Hand Writing Detection Using deep learning
    :maxdepth: 2
    :numbered:
    
-   file1.md
-   file2.md
+   MyDoc.md
    
    
 
