@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'E-commerce project using Java'
-copyright = '2020, Harideep'
-author = 'Harideep'
+project = 'Handwriting Detection using Deep learning'
+copyright = '2020, Sucharitha Sanchi'
+author = 'Sucharitha Sanchi'
 
 # The full version, including alpha/beta/rc tags
 release = ''
